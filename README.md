@@ -2,8 +2,8 @@
 
 A movie database and review Webapp for Cinephiles written in `Java`
 
-![](./assets/1.png)
 ![](./assets/2.png)
+![](./assets/1.png)
 
 ## Prerequisites
 - Java 21
